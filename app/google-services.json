@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653560462140",
+    "project_id": "fir-kotlin-52888",
+    "storage_bucket": "fir-kotlin-52888.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653560462140:android:aa56305642bf39384cbc39",
+        "android_client_info": {
+          "package_name": "com.example.tugas10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwP3aZSCqZroy_F0iWxHpzx-Kv6RSW6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
