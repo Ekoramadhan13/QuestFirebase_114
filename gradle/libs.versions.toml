@@ -9,7 +9,6 @@ lifecycleRuntimeKtx = "2.10.0"
 activityCompose = "1.12.2"
 composeBom = "2024.09.00"
 firebase-bom = "33.1.2"
-courutines-play-services = "1.8.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -34,7 +33,7 @@ navigation-compose = {module = "androidx.navigation:navigation-compose", version
 firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebase-bom" }
 firebase-firestore = { module = "com.google.firebase:firebase-firestore" }
 firebase-analytics = { module = "com.google.firebase:firebase-analytics" }
-courutines-play-services = { module = "org.jetbrains.kotlin: kotlinx-coroutines-play-services", version.ref = "courutines-play-services" }
+coroutines-play-services = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-play-services", version = "1.6.4" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
